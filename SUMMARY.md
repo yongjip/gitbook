@@ -28,4 +28,4 @@
 
 ## Group 1
 
-* [서재 대청소](group-1/undefined.md)
+* [Unlocking Success: The Power of Data-Driven Culture](group-1/unlocking-success-the-power-of-data-driven-culture.md)
